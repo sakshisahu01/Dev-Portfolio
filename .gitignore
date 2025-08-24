@@ -26,16 +26,3 @@ pnpm-debug.log*
 .env.local
 .env.*.local
 
-# VS Code
-.vscode/
-*.code-workspace
-
-# OS junk files
-.DS_Store
-Thumbs.db
-
-# Misc
-*.pem
-*.dll
-*.exe
-*.json
